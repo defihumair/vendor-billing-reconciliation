@@ -1,0 +1,173 @@
+year,week,facility,billing_head,qty
+2026,10,Warehouse A,General cargo handling,2723
+2026,10,Warehouse B,General cargo handling,2275
+2026,10,Warehouse C,General cargo handling,2678
+2026,10,Commercial,General cargo handling,1407
+2026,10,Warehouse C,Brand X outbound,2864
+2026,10,Warehouse C,Brand X inbound (manual),1404
+2026,10,Warehouse C,Brand X inbound (conveyor),723
+2026,10,Warehouse A,Cargo removal & LCL,248
+2026,10,Warehouse B,Cargo removal & LCL,78
+2026,10,Warehouse C,Cargo removal & LCL,61
+2026,10,Warehouse A,Cargo shifting,457
+2026,10,Warehouse B,Cargo shifting,354
+2026,10,Warehouse C,Cargo shifting,71
+2026,10,Warehouse A,Sorting,2654
+2026,10,Warehouse B,Sorting,5482
+2026,10,Warehouse C,Sorting,2426
+2026,10,Commercial,Sorting,5748
+2026,10,Warehouse C,Brand X sorting,45875
+2026,10,Warehouse A,Sunday working,109
+2026,10,Warehouse C,Sunday working,72
+2026,10,Warehouse B,Labelling,1324
+2026,10,Warehouse C,Labelling,1816
+2026,11,Warehouse A,General cargo handling,2016
+2026,11,Warehouse B,General cargo handling,2733
+2026,11,Warehouse C,General cargo handling,1701
+2026,11,Commercial,General cargo handling,2076
+2026,11,Warehouse C,Brand X outbound,3134
+2026,11,Warehouse C,Brand X inbound (manual),1396
+2026,11,Warehouse C,Brand X inbound (conveyor),621
+2026,11,Warehouse A,Cargo removal & LCL,296
+2026,11,Warehouse B,Cargo removal & LCL,153
+2026,11,Warehouse C,Cargo removal & LCL,169
+2026,11,Warehouse A,Cargo shifting,191
+2026,11,Warehouse B,Cargo shifting,240
+2026,11,Warehouse C,Cargo shifting,533
+2026,11,Warehouse A,Sorting,3177
+2026,11,Warehouse B,Sorting,5602
+2026,11,Warehouse C,Sorting,3976
+2026,11,Commercial,Sorting,7101
+2026,11,Warehouse C,Brand X sorting,49406
+2026,11,Warehouse A,Sunday working,126
+2026,11,Warehouse C,Sunday working,60
+2026,11,Warehouse B,Labelling,2860
+2026,11,Warehouse C,Labelling,726
+2026,12,Warehouse A,General cargo handling,2122
+2026,12,Warehouse B,General cargo handling,2725
+2026,12,Warehouse C,General cargo handling,2630
+2026,12,Commercial,General cargo handling,1627
+2026,12,Warehouse C,Brand X outbound,2623
+2026,12,Warehouse C,Brand X inbound (manual),1937
+2026,12,Warehouse C,Brand X inbound (conveyor),789
+2026,12,Warehouse A,Cargo removal & LCL,167
+2026,12,Warehouse B,Cargo removal & LCL,103
+2026,12,Warehouse C,Cargo removal & LCL,164
+2026,12,Warehouse A,Cargo shifting,370
+2026,12,Warehouse B,Cargo shifting,238
+2026,12,Warehouse C,Cargo shifting,357
+2026,12,Warehouse A,Sorting,5699
+2026,12,Warehouse B,Sorting,6392
+2026,12,Warehouse C,Sorting,6399
+2026,12,Commercial,Sorting,6994
+2026,12,Warehouse C,Brand X sorting,47014
+2026,12,Warehouse C,Sunday working,104
+2026,12,Warehouse B,Labelling,2492
+2026,12,Warehouse C,Labelling,1564
+2026,13,Warehouse A,General cargo handling,2745
+2026,13,Warehouse B,General cargo handling,1822
+2026,13,Warehouse C,General cargo handling,2277
+2026,13,Commercial,General cargo handling,2451
+2026,13,Warehouse C,Brand X outbound,3060
+2026,13,Warehouse C,Brand X inbound (manual),1563
+2026,13,Warehouse C,Brand X inbound (conveyor),665
+2026,13,Warehouse A,Cargo removal & LCL,128
+2026,13,Warehouse B,Cargo removal & LCL,267
+2026,13,Warehouse C,Cargo removal & LCL,208
+2026,13,Warehouse A,Cargo shifting,521
+2026,13,Warehouse B,Cargo shifting,336
+2026,13,Warehouse C,Cargo shifting,73
+2026,13,Warehouse A,Sorting,3336
+2026,13,Warehouse B,Sorting,3730
+2026,13,Warehouse C,Sorting,6622
+2026,13,Commercial,Sorting,4245
+2026,13,Warehouse C,Brand X sorting,37795
+2026,13,Warehouse B,Labelling,2641
+2026,13,Warehouse C,Labelling,1313
+2026,14,Warehouse A,General cargo handling,1867
+2026,14,Warehouse B,General cargo handling,1919
+2026,14,Warehouse C,General cargo handling,2450
+2026,14,Commercial,General cargo handling,2151
+2026,14,Warehouse C,Brand X outbound,2541
+2026,14,Warehouse C,Brand X inbound (manual),1716
+2026,14,Warehouse C,Brand X inbound (conveyor),525
+2026,14,Warehouse A,Cargo removal & LCL,210
+2026,14,Warehouse B,Cargo removal & LCL,86
+2026,14,Warehouse C,Cargo removal & LCL,144
+2026,14,Warehouse A,Cargo shifting,534
+2026,14,Warehouse B,Cargo shifting,311
+2026,14,Warehouse C,Cargo shifting,35
+2026,14,Warehouse A,Sorting,6063
+2026,14,Warehouse B,Sorting,6974
+2026,14,Warehouse C,Sorting,6452
+2026,14,Commercial,Sorting,2143
+2026,14,Warehouse C,Brand X sorting,36984
+2026,14,Warehouse A,Sunday working,131
+2026,14,Warehouse C,Sunday working,61
+2026,14,Warehouse B,Labelling,2838
+2026,14,Warehouse C,Labelling,2988
+2026,15,Warehouse A,General cargo handling,2121
+2026,15,Warehouse B,General cargo handling,1574
+2026,15,Warehouse C,General cargo handling,2196
+2026,15,Commercial,General cargo handling,2605
+2026,15,Warehouse C,Brand X outbound,2934
+2026,15,Warehouse C,Brand X inbound (manual),1426
+2026,15,Warehouse C,Brand X inbound (conveyor),778
+2026,15,Warehouse A,Cargo removal & LCL,248
+2026,15,Warehouse B,Cargo removal & LCL,292
+2026,15,Warehouse C,Cargo removal & LCL,286
+2026,15,Warehouse A,Cargo shifting,254
+2026,15,Warehouse B,Cargo shifting,284
+2026,15,Warehouse C,Cargo shifting,292
+2026,15,Warehouse A,Sorting,2919
+2026,15,Warehouse B,Sorting,6502
+2026,15,Warehouse C,Sorting,5747
+2026,15,Commercial,Sorting,1987
+2026,15,Warehouse C,Brand X sorting,47861
+2026,15,Warehouse B,Sunday working,70
+2026,15,Warehouse C,Sunday working,95
+2026,15,Warehouse B,Labelling,910
+2026,15,Warehouse C,Labelling,1421
+2026,16,Warehouse A,General cargo handling,2145
+2026,16,Warehouse B,General cargo handling,2477
+2026,16,Warehouse C,General cargo handling,2469
+2026,16,Commercial,General cargo handling,2056
+2026,16,Warehouse C,Brand X outbound,3151
+2026,16,Warehouse C,Brand X inbound (manual),1267
+2026,16,Warehouse C,Brand X inbound (conveyor),447
+2026,16,Warehouse A,Cargo removal & LCL,208
+2026,16,Warehouse B,Cargo removal & LCL,52
+2026,16,Warehouse C,Cargo removal & LCL,99
+2026,16,Warehouse A,Cargo shifting,245
+2026,16,Warehouse B,Cargo shifting,448
+2026,16,Warehouse C,Cargo shifting,241
+2026,16,Warehouse A,Sorting,3937
+2026,16,Warehouse B,Sorting,1932
+2026,16,Warehouse C,Sorting,6033
+2026,16,Commercial,Sorting,2033
+2026,16,Warehouse C,Brand X sorting,48349
+2026,16,Warehouse A,Sunday working,132
+2026,16,Warehouse B,Sunday working,132
+2026,16,Warehouse B,Labelling,795
+2026,16,Warehouse C,Labelling,1678
+2026,17,Warehouse A,General cargo handling,1893
+2026,17,Warehouse B,General cargo handling,1793
+2026,17,Warehouse C,General cargo handling,2645
+2026,17,Commercial,General cargo handling,1583
+2026,17,Warehouse C,Brand X outbound,2088
+2026,17,Warehouse C,Brand X inbound (manual),1422
+2026,17,Warehouse C,Brand X inbound (conveyor),732
+2026,17,Warehouse A,Cargo removal & LCL,215
+2026,17,Warehouse B,Cargo removal & LCL,187
+2026,17,Warehouse C,Cargo removal & LCL,95
+2026,17,Warehouse A,Cargo shifting,409
+2026,17,Warehouse B,Cargo shifting,223
+2026,17,Warehouse C,Cargo shifting,219
+2026,17,Warehouse A,Sorting,2486
+2026,17,Warehouse B,Sorting,2719
+2026,17,Warehouse C,Sorting,2896
+2026,17,Commercial,Sorting,3038
+2026,17,Warehouse C,Brand X sorting,37715
+2026,17,Warehouse B,Sunday working,97
+2026,17,Warehouse B,Labelling,1492
+2026,17,Warehouse C,Labelling,1270

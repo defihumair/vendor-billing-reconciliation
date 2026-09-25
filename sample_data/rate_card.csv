@@ -1,0 +1,11 @@
+billing_head,uom,rate
+General cargo handling,CBM,85.0
+Brand X outbound,CBM,40.0
+Brand X inbound (manual),CBM,38.0
+Brand X inbound (conveyor),CBM,65.0
+Cargo removal & LCL,CBM,88.0
+Cargo shifting,CBM,42.0
+Sorting,Cartons,2.5
+Brand X sorting,Cartons,1.2
+Sunday working,CBM,50.0
+Labelling,Cartons,2.2

@@ -1,0 +1,174 @@
+year,week,invoice_no,facility,billing_head,qty,amount
+2026,10,VA-2026-W10,Warehouse A,General cargo handling,2542,216070.0
+2026,10,VA-2026-W10,Warehouse B,General cargo handling,2275,193375.0
+2026,10,VA-2026-W10,Warehouse C,General cargo handling,3014,256190.0
+2026,10,VA-2026-W10,Commercial,General cargo handling,1407,119595.0
+2026,10,VA-2026-W10,Warehouse C,Brand X outbound,2864,114560.0
+2026,10,VA-2026-W10,Warehouse C,Brand X inbound (manual),1404,53352.0
+2026,10,VA-2026-W10,Warehouse C,Brand X inbound (conveyor),830,53950.0
+2026,10,VA-2026-W10,Warehouse A,Cargo removal & LCL,248,21824.0
+2026,10,VA-2026-W10,Warehouse B,Cargo removal & LCL,78,6864.0
+2026,10,VA-2026-W10,Warehouse C,Cargo removal & LCL,61,5368.0
+2026,10,VA-2026-W10,Warehouse A,Cargo shifting,457,19194.0
+2026,10,VA-2026-W10,Warehouse B,Cargo shifting,354,15611.4
+2026,10,VA-2026-W10,Warehouse C,Cargo shifting,75,3150.0
+2026,10,VA-2026-W10,Warehouse A,Sorting,2654,6635.0
+2026,10,VA-2026-W10,Warehouse B,Sorting,5482,13705.0
+2026,10,VA-2026-W10,Warehouse C,Sorting,2426,6065.0
+2026,10,VA-2026-W10,Commercial,Sorting,5984,14960.0
+2026,10,VA-2026-W10,Warehouse C,Brand X sorting,45875,55050.0
+2026,10,VA-2026-W10,Warehouse A,Sunday working,109,5450.0
+2026,10,VA-2026-W10,Warehouse C,Sunday working,72,3600.0
+2026,10,VA-2026-W10,Warehouse B,Labelling,1471,3236.2
+2026,10,VA-2026-W10,Warehouse C,Labelling,1816,3995.2
+2026,11,VA-2026-W11,Warehouse A,General cargo handling,2016,171360.0
+2026,11,VA-2026-W11,Warehouse B,General cargo handling,2914,247690.0
+2026,11,VA-2026-W11,Warehouse C,General cargo handling,1779,151215.0
+2026,11,VA-2026-W11,Commercial,General cargo handling,1964,166940.0
+2026,11,VA-2026-W11,Warehouse C,Brand X outbound,3134,125360.0
+2026,11,VA-2026-W11,Warehouse C,Brand X inbound (manual),1396,53048.0
+2026,11,VA-2026-W11,Warehouse C,Brand X inbound (conveyor),682,44330.0
+2026,11,VA-2026-W11,Warehouse A,Cargo removal & LCL,296,27350.4
+2026,11,VA-2026-W11,Warehouse B,Cargo removal & LCL,146,12848.0
+2026,11,VA-2026-W11,Warehouse C,Cargo removal & LCL,175,15400.0
+2026,11,VA-2026-W11,Warehouse A,Cargo shifting,191,8022.0
+2026,11,VA-2026-W11,Warehouse B,Cargo shifting,260,10920.0
+2026,11,VA-2026-W11,Warehouse C,Cargo shifting,511,21462.0
+2026,11,VA-2026-W11,Warehouse A,Sorting,3177,7942.5
+2026,11,VA-2026-W11,Warehouse B,Sorting,6381,15952.5
+2026,11,VA-2026-W11,Warehouse C,Sorting,3976,9940.0
+2026,11,VA-2026-W11,Commercial,Sorting,7431,18577.5
+2026,11,VA-2026-W11,Warehouse C,Brand X sorting,49406,59287.2
+2026,11,VA-2026-W11,Warehouse A,Sunday working,126,6300.0
+2026,11,VA-2026-W11,Warehouse B,Sunday working,12,600.0
+2026,11,VA-2026-W11,Warehouse C,Sunday working,60,3000.0
+2026,11,VA-2026-W11,Warehouse B,Labelling,2727,5999.4
+2026,11,VA-2026-W11,Warehouse C,Labelling,726,1597.2
+2026,12,VA-2026-W12,Warehouse A,General cargo handling,2334,198390.0
+2026,12,VA-2026-W12,Warehouse B,General cargo handling,2725,231625.0
+2026,12,VA-2026-W12,Warehouse C,General cargo handling,2630,223550.0
+2026,12,VA-2026-W12,Commercial,General cargo handling,1570,133450.0
+2026,12,VA-2026-W12,Warehouse C,Brand X outbound,2927,117080.0
+2026,12,VA-2026-W12,Warehouse C,Brand X inbound (manual),1937,73606.0
+2026,12,VA-2026-W12,Warehouse C,Brand X inbound (conveyor),789,51285.0
+2026,12,VA-2026-W12,Warehouse A,Cargo removal & LCL,155,13640.0
+2026,12,VA-2026-W12,Warehouse B,Cargo removal & LCL,112,9856.0
+2026,12,VA-2026-W12,Warehouse C,Cargo removal & LCL,164,14432.0
+2026,12,VA-2026-W12,Warehouse A,Cargo shifting,370,15540.0
+2026,12,VA-2026-W12,Warehouse B,Cargo shifting,238,9996.0
+2026,12,VA-2026-W12,Warehouse C,Cargo shifting,357,14994.0
+2026,12,VA-2026-W12,Warehouse A,Sorting,5947,14867.5
+2026,12,VA-2026-W12,Warehouse B,Sorting,7257,18142.5
+2026,12,VA-2026-W12,Warehouse C,Sorting,6399,16797.38
+2026,12,VA-2026-W12,Commercial,Sorting,6994,17485.0
+2026,12,VA-2026-W12,Warehouse C,Brand X sorting,47014,56416.8
+2026,12,VA-2026-W12,Warehouse A,Sunday working,9,472.5
+2026,12,VA-2026-W12,Warehouse C,Sunday working,110,5500.0
+2026,12,VA-2026-W12,Warehouse B,Labelling,2492,5482.4
+2026,12,VA-2026-W12,Warehouse C,Labelling,1528,3361.6
+2026,13,VA-2026-W13,Warehouse A,General cargo handling,2745,233325.0
+2026,13,VA-2026-W13,Warehouse B,General cargo handling,1945,165325.0
+2026,13,VA-2026-W13,Warehouse C,General cargo handling,2381,202385.0
+2026,13,VA-2026-W13,Commercial,General cargo handling,2451,208335.0
+2026,13,VA-2026-W13,Warehouse C,Brand X outbound,3376,135040.0
+2026,13,VA-2026-W13,Warehouse C,Brand X inbound (manual),1764,67032.0
+2026,13,VA-2026-W13,Warehouse C,Brand X inbound (conveyor),665,43225.0
+2026,13,VA-2026-W13,Warehouse A,Cargo removal & LCL,124,11457.6
+2026,13,VA-2026-W13,Warehouse B,Cargo removal & LCL,282,24816.0
+2026,13,VA-2026-W13,Warehouse C,Cargo removal & LCL,208,18304.0
+2026,13,VA-2026-W13,Warehouse A,Cargo shifting,521,21882.0
+2026,13,VA-2026-W13,Warehouse B,Cargo shifting,336,14112.0
+2026,13,VA-2026-W13,Warehouse C,Cargo shifting,82,3444.0
+2026,13,VA-2026-W13,Warehouse A,Sorting,3336,8340.0
+2026,13,VA-2026-W13,Warehouse B,Sorting,3730,9325.0
+2026,13,VA-2026-W13,Warehouse C,Sorting,6622,16555.0
+2026,13,VA-2026-W13,Commercial,Sorting,4245,10612.5
+2026,13,VA-2026-W13,Warehouse C,Brand X sorting,39523,47427.6
+2026,13,VA-2026-W13,Warehouse B,Labelling,2751,6052.2
+2026,13,VA-2026-W13,Warehouse C,Labelling,1482,3260.4
+2026,14,VA-2026-W14,Warehouse A,General cargo handling,1867,158695.0
+2026,14,VA-2026-W14,Warehouse B,General cargo handling,2021,171785.0
+2026,14,VA-2026-W14,Warehouse C,General cargo handling,2787,236895.0
+2026,14,VA-2026-W14,Commercial,General cargo handling,2151,182835.0
+2026,14,VA-2026-W14,Warehouse C,Brand X outbound,2921,116840.0
+2026,14,VA-2026-W14,Warehouse C,Brand X inbound (manual),1602,60876.0
+2026,14,VA-2026-W14,Warehouse C,Brand X inbound (conveyor),525,34125.0
+2026,14,VA-2026-W14,Warehouse A,Cargo removal & LCL,234,20592.0
+2026,14,VA-2026-W14,Warehouse B,Cargo removal & LCL,86,7946.4
+2026,14,VA-2026-W14,Warehouse C,Cargo removal & LCL,136,11968.0
+2026,14,VA-2026-W14,Warehouse A,Cargo shifting,574,24108.0
+2026,14,VA-2026-W14,Warehouse B,Cargo shifting,298,12516.0
+2026,14,VA-2026-W14,Warehouse A,Sorting,6063,15157.5
+2026,14,VA-2026-W14,Warehouse B,Sorting,6783,16957.5
+2026,14,VA-2026-W14,Commercial,Sorting,2143,5357.5
+2026,14,VA-2026-W14,Warehouse C,Brand X sorting,36984,44380.8
+2026,14,VA-2026-W14,Warehouse A,Sunday working,131,6550.0
+2026,14,VA-2026-W14,Warehouse B,Sunday working,8,400.0
+2026,14,VA-2026-W14,Warehouse C,Sunday working,61,3050.0
+2026,14,VA-2026-W14,Warehouse B,Labelling,2625,5775.0
+2026,14,VA-2026-W14,Warehouse C,Labelling,2988,6573.6
+2026,15,VA-2026-W15,Warehouse A,General cargo handling,2121,180285.0
+2026,15,VA-2026-W15,Warehouse B,General cargo handling,1574,133790.0
+2026,15,VA-2026-W15,Warehouse C,General cargo handling,2196,186660.0
+2026,15,VA-2026-W15,Commercial,General cargo handling,2766,235110.0
+2026,15,VA-2026-W15,Warehouse C,Brand X outbound,2934,117360.0
+2026,15,VA-2026-W15,Warehouse C,Brand X inbound (manual),1426,54188.0
+2026,15,VA-2026-W15,Warehouse C,Brand X inbound (conveyor),754,49010.0
+2026,15,VA-2026-W15,Warehouse A,Cargo removal & LCL,248,21824.0
+2026,15,VA-2026-W15,Warehouse B,Cargo removal & LCL,292,25696.0
+2026,15,VA-2026-W15,Warehouse C,Cargo removal & LCL,286,25168.0
+2026,15,VA-2026-W15,Warehouse A,Cargo shifting,248,10416.0
+2026,15,VA-2026-W15,Warehouse B,Cargo shifting,284,11928.0
+2026,15,VA-2026-W15,Warehouse C,Cargo shifting,292,12264.0
+2026,15,VA-2026-W15,Warehouse A,Sorting,3297,8242.5
+2026,15,VA-2026-W15,Warehouse B,Sorting,6106,15265.0
+2026,15,VA-2026-W15,Warehouse C,Sorting,5747,14367.5
+2026,15,VA-2026-W15,Commercial,Sorting,1987,4967.5
+2026,15,VA-2026-W15,Warehouse C,Brand X sorting,47861,57433.2
+2026,15,VA-2026-W15,Warehouse A,Sunday working,37,1850.0
+2026,15,VA-2026-W15,Warehouse B,Sunday working,70,3500.0
+2026,15,VA-2026-W15,Warehouse C,Sunday working,109,5450.0
+2026,15,VA-2026-W15,Warehouse B,Labelling,1028,2261.6
+2026,15,VA-2026-W15,Warehouse C,Labelling,1499,3297.8
+2026,16,VA-2026-W16,Warehouse A,General cargo handling,2145,182325.0
+2026,16,VA-2026-W16,Warehouse B,General cargo handling,2477,210545.0
+2026,16,VA-2026-W16,Warehouse C,General cargo handling,2469,209865.0
+2026,16,VA-2026-W16,Commercial,General cargo handling,2056,174760.0
+2026,16,VA-2026-W16,Warehouse C,Brand X outbound,3151,126040.0
+2026,16,VA-2026-W16,Warehouse C,Brand X inbound (manual),1239,47082.0
+2026,16,VA-2026-W16,Warehouse C,Brand X inbound (conveyor),447,29055.0
+2026,16,VA-2026-W16,Warehouse A,Cargo removal & LCL,208,18304.0
+2026,16,VA-2026-W16,Warehouse B,Cargo removal & LCL,50,4400.0
+2026,16,VA-2026-W16,Warehouse C,Cargo removal & LCL,110,9680.0
+2026,16,VA-2026-W16,Warehouse A,Cargo shifting,245,10290.0
+2026,16,VA-2026-W16,Warehouse B,Cargo shifting,498,20916.0
+2026,16,VA-2026-W16,Warehouse C,Cargo shifting,241,10122.0
+2026,16,VA-2026-W16,Warehouse A,Sorting,4235,10587.5
+2026,16,VA-2026-W16,Warehouse B,Sorting,1932,4830.0
+2026,16,VA-2026-W16,Warehouse C,Sorting,6490,16225.0
+2026,16,VA-2026-W16,Commercial,Sorting,2033,5082.5
+2026,16,VA-2026-W16,Warehouse C,Brand X sorting,48349,58018.8
+2026,16,VA-2026-W16,Warehouse A,Sunday working,132,6600.0
+2026,16,VA-2026-W16,Warehouse B,Sunday working,132,6600.0
+2026,16,VA-2026-W16,Warehouse C,Labelling,1678,3691.6
+2026,17,VA-2026-W17,Warehouse A,General cargo handling,1893,160905.0
+2026,17,VA-2026-W17,Warehouse B,General cargo handling,1793,152405.0
+2026,17,VA-2026-W17,Warehouse C,General cargo handling,2514,213690.0
+2026,17,VA-2026-W17,Commercial,General cargo handling,1522,129370.0
+2026,17,VA-2026-W17,Warehouse C,Brand X outbound,2088,83520.0
+2026,17,VA-2026-W17,Warehouse C,Brand X inbound (manual),1545,58710.0
+2026,17,VA-2026-W17,Warehouse C,Brand X inbound (conveyor),732,47580.0
+2026,17,VA-2026-W17,Warehouse A,Cargo removal & LCL,215,18920.0
+2026,17,VA-2026-W17,Warehouse B,Cargo removal & LCL,210,18480.0
+2026,17,VA-2026-W17,Warehouse C,Cargo removal & LCL,103,9064.0
+2026,17,VA-2026-W17,Warehouse A,Cargo shifting,433,18186.0
+2026,17,VA-2026-W17,Warehouse B,Cargo shifting,237,9954.0
+2026,17,VA-2026-W17,Warehouse C,Cargo shifting,219,9198.0
+2026,17,VA-2026-W17,Warehouse B,Sorting,2719,6797.5
+2026,17,VA-2026-W17,Warehouse C,Sorting,2896,7240.0
+2026,17,VA-2026-W17,Commercial,Sorting,3388,8470.0
+2026,17,VA-2026-W17,Warehouse C,Brand X sorting,37715,45258.0
+2026,17,VA-2026-W17,Warehouse B,Sunday working,104,5200.0
+2026,17,VA-2026-W17,Warehouse C,Sunday working,18,900.0
+2026,17,VA-2026-W17,Warehouse B,Labelling,1492,3282.4
+2026,17,VA-2026-W17,Warehouse C,Labelling,1270,2794.0
