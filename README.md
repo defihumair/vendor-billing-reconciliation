@@ -1,8 +1,16 @@
 # Vendor Billing Reconciliation
 
+**Live demo:** https://vendor-billing-reconciliation.streamlit.app/
+
 A Streamlit app that reconciles a vendor's weekly invoice against internal activity volumes, applies billing rules line by line, requires a named manager's approval, and generates the payable invoice in Excel with a full audit trail.
 
 > Demo built on **synthetic data**. It recreates the approach of a production workflow I built for warehouse vendor billing, where the same method cut invoice preparation from days of manual Excel work to 5–10 minutes. No company code, data, names or rates are included.
+
+## Screenshots
+
+![Line-by-line review](screenshots/review.png)
+![Manager approval and invoice generation](screenshots/approval.png)
+![Savings log](screenshots/savings-log.png)
 
 ## The problem
 
@@ -39,7 +47,7 @@ flowchart LR
 - Excel output with three sheets: formatted invoice (live formulas), full reconciliation, and audit trail
 - Savings log across all weeks: vendor invoiced vs approved payable vs correction
 
-## Run it
+## Run it locally
 
 ```bash
 pip install -r requirements.txt
@@ -61,20 +69,3 @@ The app opens with sample data. To use your own files, choose **Upload CSV files
 Regenerate the sample data with `python generate_data.py`. It creates 8 weeks of activity and a vendor invoice with deliberate overbilling, underbilling, missing lines and rate errors.
 
 ## Project structure
-
-```
-├── app.py              Streamlit interface
-├── reconcile.py        Validation, reconciliation rules, savings log, Excel invoice
-├── generate_data.py    Synthetic data generator
-├── sample_data/        Generated CSV files
-├── requirements.txt
-└── run_app.bat         Windows launcher
-```
-
-## Tech
-
-Python · pandas · Streamlit · openpyxl
-
-## Author
-
-Muhammad Humair Qureshi · [LinkedIn](https://www.linkedin.com/in/biwithhumair)
